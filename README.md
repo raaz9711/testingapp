@@ -1,0 +1,2 @@
+# testingapp
+angular app
